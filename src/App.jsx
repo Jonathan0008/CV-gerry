@@ -4,7 +4,6 @@ import Hero from "./component/hero"
 import About from "./component/about"
 import Portfolio from "./component/portfolio"
 // import AOS from "aos"
-import Contact from "./component/contact"
 import Footer from "./component/footer"
 import Resume from "./component/resume"
 
@@ -28,7 +27,6 @@ function App() {
         <About />
         <Portfolio/>
         <Resume/>
-        <Contact/>
       </main>
       
       <Footer/>

@@ -7,7 +7,7 @@ const Portfolio = () => {
     <div className="section-title">
       <h2>Portfolio</h2>
       <p>
-      Halo, saya Bambang, seorang Frontend Developer yang memiliki tujuan utama meningkatkan tingkat pengalaman pengguna (UX) melalui pengembangan web yang inovatif. Dengan antusiasme, kreativitas, dan semangat untuk belajar yang tinggi, saya memiliki pengalaman dalam menggunakan JavaScript dan telah membuat proyek web pribadi menggunakan framework Vite.
+      Halo, saya Gerry Jonathan Runtu, seorang Frontend Developer yang memiliki tujuan utama meningkatkan tingkat pengalaman pengguna (UX) melalui pengembangan web yang inovatif. Dengan antusiasme, kreativitas, dan semangat untuk belajar yang tinggi, saya memiliki pengalaman dalam menggunakan JavaScript dan telah membuat proyek web pribadi menggunakan framework Vite.
       <br/>
       Saya percaya bahwa desain yang baik dan fungsionalitas yang solid adalah kunci untuk menciptakan pengalaman pengguna yang luar biasa. Meskipun saat ini belum memiliki pengalaman kerja terkait, saya siap untuk berkontribusi pada proyek-proyek yang menantang dan membangun portofolio yang menonjol.
       <br/>

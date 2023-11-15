@@ -7,11 +7,10 @@ const About = () => {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              saya merupakan seorang mahasiswa dan saat ini sedang mengambil
-              jurusan informatika di falkutas ilmu komputer universitas klabat.
-              alasan saya memilih falkutas ini karena saya sangat tertarik dengan dunia maya 
-              yg dimana disini kita bisa juga ber karya sesuka kita 
-              dan ya itu pilihan saya
+            Saya merupakan seorang mahasiswa dan saat ini sedang mengambil 
+            jurusan Informatika di Fakultas Ilmu Komputer Universitas Klabat. 
+            Alasan saya memilih fakultas ini karena saya sangat tertarik dengan dunia maya, 
+            di mana di sini kita juga dapat berkarya sesuka hati.
             </p>
           </div>
           <div className="row">

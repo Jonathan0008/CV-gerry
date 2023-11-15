@@ -11,9 +11,9 @@ const Header = () => {
                     <img src="src/assets/img/gerryP.jpeg" alt className="img-fluid rounded-circle" />
                     <h1 className="text-light"><a href="index.html">Gerry Jonathan Runtu</a></h1>
                     <div className="social-links mt-3 text-center">
-                    <a href="#" className="instagram"><i className="bi bi-threads" /></a>
-                    <a href="#" className="google-plus"><i className="bi bi-github" /></a>
-                    <a href="#" className="linkedin"><i className="bi bi-facebook" /></a>
+                    <a href="https://www.instagram.com/ger_jr4/?next=%2Faccounts%2Fonetap%2F" className="instagram"><i className="bi bi-instagram" /></a>
+                    <a href="https://github.com/Jonathan0008" className="github"><i className="bi bi-github" /></a>
+                    <a href="https://www.facebook.com/gerry.runtu.94" className="facebook"><i className="bi bi-facebook" /></a>
                     </div>
                 </div>
                 <nav id="navbar" className="nav-menu navbar">
